@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Overview
 
-A simple boilerplate for development with React, Redux and Redux-Saga.
+A beginners boilerplate for development with React, Redux and Redux-Saga, and React Router (v4).
 
 ## Available Scripts
 
